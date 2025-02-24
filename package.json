@@ -31,8 +31,9 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "sass": "^1.83.1",
     "sass-loader": "^16.0.4"
   },
-  "homepage": "/"
+  "homepage": "https://blue997.github.io/todolist/"
 }
